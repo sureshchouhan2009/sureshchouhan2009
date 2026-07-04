@@ -2,13 +2,13 @@
 
 ## Senior Cross-Platform Mobile Engineer
 
-### Flutter • Xamarin.Forms • Android • iOS
+### Flutter • MAUI • Xamarin.Forms • Android • iOS
 
-I'm a passionate Mobile Engineer with **8+ years of experience** designing, developing, and delivering scalable enterprise mobile applications.
+I'm a passionate Mobile Engineer with **8+ years of experience** building scalable, secure, and high-performance mobile applications for Android and iOS.
 
-My expertise includes building production-ready applications using **Flutter** and **Xamarin.Forms**, implementing **Clean Architecture**, designing **White Label solutions**, integrating cloud services, and delivering secure, maintainable mobile applications for Android and iOS.
+I specialize in **Flutter**, **Clean Architecture**, **cross-platform development**, and **enterprise mobile solutions**. Throughout my career, I've worked across multiple industries including Banking, Finance, Aviation, Healthcare, and Enterprise applications, delivering production-ready solutions with a strong focus on quality, maintainability, and user experience.
 
-I enjoy solving complex engineering problems, creating reusable architectures, and building mobile products that are scalable, maintainable, and ready for production.
+I'm passionate about software architecture, writing clean code, and continuously improving engineering practices through automation, testing, and modern development workflows.
 
 ---
 
@@ -16,46 +16,48 @@ I enjoy solving complex engineering problems, creating reusable architectures, a
 
 - 📱 8+ Years of Mobile Application Development
 - 💙 Flutter & Dart Specialist
-- ⚡ Xamarin.Forms & C# Experience
-- 🏗 Enterprise Mobile Architecture
-- 🧩 White Label Application Development
-- ☁ Firebase & Cloud Integration
-- 🔐 Authentication & Mobile Security
-- 🚀 CI/CD & Mobile Release Automation
+- ⚡ Experienced with .NET MAUI, Xamarin.Forms, Xamarin.Android & Xamarin.iOS
+- 🏗 Passionate about Enterprise Mobile Architecture
+- 🧩 Strong advocate of Clean Architecture & SOLID Principles
+- ☁ Experienced with Firebase & Cloud Services
+- 🔐 Mobile Security & Authentication
+- 🚀 CI/CD & Release Automation
 - 📦 REST API Integration
-- 🤝 Agile & Scrum Development
-- 🌱 Continuous Learner & Technology Enthusiast
+- 🤝 Agile & Scrum Practitioner
+- 🌱 Always Learning & Exploring New Technologies
 
 ---
 
 # 🚀 Current Focus
 
-I'm currently building the **FCP Ecosystem (Flutter Cross Platform)**—a collection of production-ready Flutter repositories focused on enterprise application development.
+I'm currently building a collection of **production-ready Flutter projects** that demonstrate modern mobile engineering practices.
 
-The ecosystem demonstrates scalable architecture, reusable components, white-label solutions, automated CI/CD pipelines, testing strategies, and modern engineering best practices.
+These repositories focus on scalable architecture, reusable components, testing, automation, and real-world development approaches suitable for enterprise applications.
 
-### FCP Ecosystem Roadmap
+### Portfolio Roadmap
 
-- 🏗 **FCP White Label** — Enterprise Flutter White Label Platform
-- 🎨 **FCP UI** — Enterprise UI Component Library
-- 🔐 **FCP Auth** — Authentication & Security Suite
-- 💬 **FCP Chat** — Enterprise Chat Solution
-- 🛒 **FCP Commerce** — Production-Ready Ecommerce Application
+- 🏗 Flutter Enterprise White Label
+- 🎨 Flutter UI Library
+- 🔐 Flutter Authentication Suite
+- 💬 Flutter Chat Enterprise
+- 🛒 Flutter Ecommerce Pro
 
 ---
 
 # 🛠 Tech Stack
 
-## 📱 Mobile Development
+## Mobile Development
 
 - Flutter
 - Dart
+- .NET MAUI
 - Xamarin.Forms
-- C#
+- Xamarin.Android
+- Xamarin.iOS
 - Android
 - iOS
 
-## 🏛 Architecture
+## Architecture
 
 - Clean Architecture
 - MVVM
@@ -64,41 +66,37 @@ The ecosystem demonstrates scalable architecture, reusable components, white-lab
 - Modular Architecture
 - Feature-first Development
 
-## 🔄 State Management
+## State Management
 
 - BLoC
 - Cubit
 - Provider
 - Riverpod
 
-## ☁ Backend & Cloud
+## Backend & Cloud
 
 - Firebase
 - REST APIs
 - GraphQL
+- ASP.NET Web API
 
-## 💾 Local Storage
+## Local Storage
 
 - Hive
-- Isar
+- SQLite
 - Shared Preferences
 - Flutter Secure Storage
 
-## 🌐 Networking
-
-- Dio
-- HTTP
-- WebSocket
-
-## ⚙ DevOps
+## DevOps
 
 - Git
 - GitHub
 - GitHub Actions
+- Azure DevOps
 - Fastlane
 - CI/CD
 
-## ✅ Testing
+## Testing
 
 - Unit Testing
 - Widget Testing
@@ -108,77 +106,58 @@ The ecosystem demonstrates scalable architecture, reusable components, white-lab
 
 # ⭐ Featured Projects
 
-## 🏗 FCP White Label
+## 🏗 Flutter Enterprise White Label
 
-A production-ready Flutter White Label platform designed for scalable enterprise applications.
-
-**Highlights**
-
-- Clean Architecture
-- Feature-first Modular Design
-- Multi-Flavor Support
-- Firebase Integration
-- Dependency Injection
-- CI/CD Automation
-- Fastlane
-- Automated Testing
+Production-ready Flutter architecture demonstrating scalable project structure, reusable modules, multi-flavor configuration, dependency injection, automated testing, and CI/CD.
 
 > 🚧 Currently Under Development
 
 ---
 
-## 🎨 FCP UI
+## 🎨 Flutter UI Library
 
-Reusable Flutter widgets and enterprise-grade UI components built with scalability and consistency in mind.
-
-> 🚧 Currently Under Development
-
----
-
-## 🔐 FCP Auth
-
-Complete authentication solution featuring secure and modern authentication flows.
-
-**Includes**
-
-- Email Authentication
-- Google Sign-In
-- Apple Sign-In
-- Biometric Authentication
-- Secure Storage
-- JWT Authentication
+A reusable collection of Flutter widgets, themes, animations, and UI components built for enterprise applications.
 
 > 🚧 Currently Under Development
 
 ---
 
-## 💬 FCP Chat
+## 🔐 Flutter Authentication Suite
 
-Enterprise-grade real-time messaging application demonstrating scalable Flutter architecture.
-
-> 🚧 Currently Under Development
-
----
-
-## 🛒 FCP Commerce
-
-Production-ready Flutter eCommerce application showcasing enterprise architecture and modern engineering practices.
+A complete authentication module featuring secure authentication flows, biometric login, social sign-in, secure storage, and modern authentication patterns.
 
 > 🚧 Currently Under Development
 
 ---
 
-# 💼 Professional Expertise
+## 💬 Flutter Chat Enterprise
 
-- Enterprise Mobile Development
-- Cross-Platform Application Development
+A real-time chat application showcasing scalable Flutter architecture, messaging, media sharing, notifications, and offline support.
+
+> 🚧 Currently Under Development
+
+---
+
+## 🛒 Flutter Ecommerce Pro
+
+A production-ready Flutter eCommerce application demonstrating enterprise architecture, state management, API integration, payments, and offline capabilities.
+
+> 🚧 Currently Under Development
+
+---
+
+# 💼 Core Expertise
+
+- Enterprise Mobile Application Development
+- Cross-Platform Mobile Development
 - Flutter Architecture
-- Xamarin.Forms Migration
-- White Label Solutions
-- Firebase Integration
+- .NET MAUI & Xamarin Migration
+- Clean Architecture
 - Mobile Performance Optimization
+- Firebase Integration
 - REST API Integration
 - CI/CD Automation
+- Code Review & Technical Mentoring
 - Agile Software Development
 
 ---
@@ -186,25 +165,23 @@ Production-ready Flutter eCommerce application showcasing enterprise architectur
 # 📚 Currently Learning
 
 - Advanced Flutter Performance Optimization
-- Flutter Web
 - AI Integration in Mobile Applications
 - System Design for Large-Scale Mobile Applications
+- Modern Mobile Engineering Practices
 
 ---
 
-# 🎯 Career Objective
+# 🎯 Career Goal
 
-To build scalable, maintainable, and high-quality mobile applications while contributing to enterprise software development and the Flutter ecosystem through reusable architectures, open-source projects, and engineering best practices.
+To build high-quality, scalable, and maintainable mobile applications while contributing to modern engineering practices and continuously improving as a software engineer.
 
 ---
 
 # 🤝 Let's Connect
 
-📧 **Email:** *Update Soon*
+📧 **Email:** sureshchouhan2009@gmail.com
 
-💼 **LinkedIn:** *Update Soon*
-
-🌐 **Portfolio Website:** *Coming Soon*
+💼 **LinkedIn:** https://linkedin.com/in/suresh-chouhan-264160159
 
 ---
 
@@ -214,4 +191,4 @@ To build scalable, maintainable, and high-quality mobile applications while cont
 
 ---
 
-⭐ **Thank you for visiting my profile! If you find my work helpful, consider giving a ⭐ to my repositories.**
+⭐ Thank you for visiting my profile! Feel free to explore my repositories and follow my journey as I build production-ready Flutter solutions.
